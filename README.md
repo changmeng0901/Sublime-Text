@@ -1,7 +1,23 @@
 # Sublime-Text
-sublime text2 page control离线安装
+<b>sublime text2 page control离线安装</b>
 
-Sublime Text快捷键
+手动(离线)安装：
+
+可能由于各种原因，无法使用代码安装，那可以通过以下步骤手动安装Package Control：
+
+1.点击Preferences > Browse Packages菜单
+
+2.进入打开的目录的上层目录，然后再进入Installed Packages/目录
+
+3.下载 Package Control.sublime-package 并复制到Installed Packages/目录
+
+4.重启Sublime Text。
+
+Package Control 主文件下载地址：https://github.com/wbond/sublime_package_control
+
+即：解压之后，把里面的文件放在Installed Packages文件里面
+
+<b>Sublime Text快捷键</b>
 
 https://github.com/jikeytang/sublime-text
 
