@@ -1,4 +1,6 @@
 # Sublime-Text
+sublime text2 page control离线安装
+
 Sublime Text快捷键
 
 https://github.com/jikeytang/sublime-text
